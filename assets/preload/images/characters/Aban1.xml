@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aban1.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="abandown0000" x="2" y="2" width="477" height="634"/>
+	<SubTexture name="abandown0001" x="481" y="2" width="451" height="634" frameX="-23" frameY="0" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0002" x="481" y="2" width="451" height="634" frameX="-23" frameY="0" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0003" x="934" y="2" width="445" height="631" frameX="-26" frameY="-3" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0004" x="934" y="2" width="445" height="631" frameX="-26" frameY="-3" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0005" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0006" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0007" x="1823" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0008" x="1823" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0009" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0010" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0011" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0012" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0013" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abandown0014" x="1381" y="2" width="440" height="628" frameX="-29" frameY="-6" frameWidth="477" frameHeight="634"/>
+	<SubTexture name="abanidle0000" x="2265" y="2" width="462" height="617" frameX="0" frameY="-3" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0001" x="2265" y="2" width="462" height="617" frameX="0" frameY="-3" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0002" x="2729" y="2" width="453" height="620" frameX="0" frameY="0" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0003" x="2729" y="2" width="453" height="620" frameX="0" frameY="0" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0004" x="3184" y="2" width="446" height="618" frameX="-1" frameY="-2" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0005" x="3184" y="2" width="446" height="618" frameX="-1" frameY="-2" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0006" x="3632" y="2" width="443" height="615" frameX="-2" frameY="-4" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0007" x="3632" y="2" width="443" height="615" frameX="-2" frameY="-4" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0008" x="2" y="638" width="439" height="614" frameX="-3" frameY="-6" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0009" x="2" y="638" width="439" height="614" frameX="-3" frameY="-6" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0010" x="443" y="638" width="439" height="614" frameX="-3" frameY="-6" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0011" x="443" y="638" width="439" height="614" frameX="-3" frameY="-6" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0012" x="443" y="638" width="439" height="614" frameX="-3" frameY="-6" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0013" x="884" y="638" width="445" height="617" frameX="-3" frameY="-3" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanidle0014" x="884" y="638" width="445" height="617" frameX="-3" frameY="-3" frameWidth="462" frameHeight="620"/>
+	<SubTexture name="abanleft0000" x="1331" y="638" width="468" height="642" frameX="0" frameY="0" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0001" x="1801" y="638" width="456" height="638" frameX="-13" frameY="-4" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0002" x="1801" y="638" width="456" height="638" frameX="-13" frameY="-4" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0003" x="2259" y="638" width="452" height="636" frameX="-16" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0004" x="2259" y="638" width="452" height="636" frameX="-16" frameY="-6" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0005" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0006" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0007" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0008" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0009" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0010" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0011" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0012" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0013" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanleft0014" x="2713" y="638" width="448" height="633" frameX="-18" frameY="-9" frameWidth="469" frameHeight="642"/>
+	<SubTexture name="abanright0000" x="3163" y="638" width="480" height="647" frameX="-1" frameY="0" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0001" x="2" y="1287" width="472" height="643" frameX="0" frameY="-4" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0002" x="2" y="1287" width="472" height="643" frameX="0" frameY="-4" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0003" x="476" y="1287" width="469" height="641" frameX="-1" frameY="-6" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0004" x="476" y="1287" width="469" height="641" frameX="-1" frameY="-6" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0005" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0006" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0007" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0008" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0009" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0010" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0011" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0012" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0013" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanright0014" x="947" y="1287" width="466" height="638" frameX="-3" frameY="-9" frameWidth="481" frameHeight="647"/>
+	<SubTexture name="abanup0000" x="1415" y="1287" width="446" height="656"/>
+	<SubTexture name="abanup0001" x="1863" y="1287" width="439" height="646" frameX="-4" frameY="-10" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0002" x="1863" y="1287" width="439" height="646" frameX="-4" frameY="-10" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0003" x="2304" y="1287" width="439" height="642" frameX="-4" frameY="-14" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0004" x="2304" y="1287" width="439" height="642" frameX="-4" frameY="-14" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0005" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0006" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0007" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0008" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0009" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0010" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0011" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0012" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0013" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+	<SubTexture name="abanup0014" x="2745" y="1287" width="439" height="640" frameX="-4" frameY="-16" frameWidth="446" frameHeight="656"/>
+</TextureAtlas>
