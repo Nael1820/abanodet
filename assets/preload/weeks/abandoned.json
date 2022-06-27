@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Abandoned",
+			"aban",
+			[
+				66,
+				66,
+				133
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "holding on for hope",
+	"weekName": "abandoned",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
