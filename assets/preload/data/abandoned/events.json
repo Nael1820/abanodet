@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "continue",
+		"player1": "aban1",
+		"player2": "null",
+		"player3": null,
+		"events": [
+			[
+				32359.5505617978,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.2"
+					]
+				]
+			],
+			[
+				72808.988764045,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				75505.6179775281,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				118398.876404495,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					]
+				]
+			],
+			[
+				118651.685393259,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"sonk"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "null",
+		"bpm": 178,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Abandoned"
+	}
+}
